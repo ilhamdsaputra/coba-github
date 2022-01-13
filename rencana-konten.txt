@@ -1,6 +1,6 @@
 Rencana Konten:
 - Android
-- Webn
+- Web
     + Front End
 - Basic Programing
 - Machine Learning
