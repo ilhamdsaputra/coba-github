@@ -1,0 +1,6 @@
+Rencana Konten:
+- Android
+- Webn
+- Machine Learning
+    + Apa itu machine learning
+    + Metode Supervised dan unsupervised
