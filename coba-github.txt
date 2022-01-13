@@ -2,5 +2,5 @@ coba github
 - Pengenalan git dan github
 - Pengenalan Fitur
 - Praktek menggunakan git dan github
-- Mencoba kolaborasi dengan teman
 - Mengupload kode
+- Membuat video penjelasan
