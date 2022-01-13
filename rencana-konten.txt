@@ -1,6 +1,7 @@
 Rencana Konten:
 - Android
 - Webn
+- Basic Programing
 - Machine Learning
     + Apa itu machine learning
     + Metode Supervised dan unsupervised
