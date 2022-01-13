@@ -1,7 +1,9 @@
 Rencana Konten:
 - Android
-- Webn
+- Web
+    + Front End
 - Basic Programing
 - Machine Learning
     + Apa itu machine learning
     + Metode Supervised dan unsupervised
+- DevOps
